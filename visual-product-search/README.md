@@ -252,12 +252,12 @@ The weighted combination compensates for each signal's blind spots. In testing, 
 
 ## 📝 License
 
-© 2025 Rod Stewart. All Rights Reserved. This code is provided for portfolio demonstration purposes only. No permission is granted to use, copy, modify, or distribute this software.
+© 2025 Rod M. Stewart. All Rights Reserved. This code is provided for portfolio demonstration purposes only. No permission is granted to use, copy, modify, or distribute this software.
 
 ---
 
-## 🙋 Author
+## 🙋‍♂️ Author
 
-**Rod Stewart** — [GitHub](https://github.com/Rodstewart498)
+**Rod M. Stewart** — [GitHub](https://github.com/Rodstewart498)
 
 Built to solve real inventory identification problems at scale. If you're managing thousands of physical products and need visual lookup, this architecture delivers.
